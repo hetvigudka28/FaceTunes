@@ -46,13 +46,13 @@ And navigate to `http://127.0.0.1:8000/`.
 
 ## Screenshots
 
-[!happyPic](media/screenshots/happyClick.jpg)
+![happyPic](media/screenshots/happyClick.jpg)
 
 ![Happy](media/screenshots/happy.jpg)
 
-[!neutralPic](media/screenshots/neutralClick.jpg)
+![neutralPic](media/screenshots/neutralClick.jpg)
 
-[!neutral](media/screenshots/neutral.jpg)
+![neutral](media/screenshots/neutral.jpg)
 
 
 
