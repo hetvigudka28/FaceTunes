@@ -42,4 +42,17 @@ Once `pip` has finished downloading the dependencies:
 (env)$ cd FaceEmotion_Recognition
 (env)$ python manage.py runserver
 ```
-And navigate to `http://127.0.0.1:8000/gocardless/`.
+And navigate to `http://127.0.0.1:8000/`.
+
+## Screenshots
+
+[!happyPic](media/screenshots/happyClick.jpg)
+
+![Happy](media/screenshots/happy.jpg)
+
+[!neutralPic](media/screenshots/neutralClick.jpg)
+
+[!neutral](media/screenshots/neutral.jpg)
+
+
+
