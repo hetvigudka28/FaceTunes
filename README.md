@@ -95,11 +95,11 @@ This software uses the following open source packages:
 - SQL
 
 
-## Screenshots
+# Screenshots
 
 <h2>Taking image and detecting emotion</h2>
 
-![happyPic](media/screenshots/happyClick.jpg)
+![happyPic](media/screenshots/happyWebClick.jpg)
   
 <h2>Playlist played on music player based on mood</h2>
 
